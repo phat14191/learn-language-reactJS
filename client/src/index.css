@@ -1,0 +1,13 @@
+.app-wrapper{
+    height: 100vh;
+}
+
+.navbar-wrapper{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2%;
+    font-size: 2em;
+
+}
